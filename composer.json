@@ -1,0 +1,20 @@
+{
+    "name": "danspam/AsseticGenerator",
+    "description": "Generates the assetic files for Silex",
+    "authors": [
+        {
+            "name": "Daniel Sargeant",
+            "email": "dan@onemoretake.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "silex/silex": "1.0.*",
+        "kriswallsmith/assetic": "1.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "AsseticGenerator" : "src"
+        }
+    }
+}
