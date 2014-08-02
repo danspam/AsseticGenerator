@@ -9,8 +9,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "silex/silex": "1.0.*",
-        "kriswallsmith/assetic": "1.1.*"
+        "silex/silex": "1.*",
+        "kriswallsmith/assetic": "1.2.*"
     },
     "autoload": {
         "psr-0": {
